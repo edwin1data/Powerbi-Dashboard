@@ -4,6 +4,14 @@
 
 An interactive Power BI dashboard that explores global trends in **Data Job** roles — showcasing insights on salaries, job demand, and top skills.
 
+## How to Use
+
+1. Open the `.pbix` file in **Power BI Desktop**.  
+2. Load or refresh the CSV dataset provided by Luke Barousse.  
+3. Explore the interactive visuals, filters, and drill-through features.  
+
+> 💡 **Note:** To view and interact with this dashboard, please **download the `.pbix` file** from this repository and open it in **Power BI Desktop**.
+
 ##  Skills Showcased
 
 - **Data Transformation (ETL) with Power Query:**  
