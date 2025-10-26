@@ -1,6 +1,7 @@
 #  Data Jobs Dashboard w/ Power BI
 
-![alt text](image.png)
+<img width="1286" height="718" alt="17614992148031146200389277923064" src="https://github.com/user-attachments/assets/1984b008-97a9-47cb-9b5a-f5f9130d3633" />
+
 
 An interactive Power BI dashboard that explores global trends in **Data Job** roles — showcasing insights on salaries, job demand, and top skills.
 
@@ -60,7 +61,8 @@ An interactive Power BI dashboard that explores global trends in **Data Job** ro
 
 ### Page 1: High-Level Market View
 
-![alt text](image.png)
+<img width="1286" height="718" alt="17614992148031146200389277923064" src="https://github.com/user-attachments/assets/3bcf9cde-5c47-43c0-a292-0f3deb9674f2" />
+
 
 This is your mission control for the data job market. It showcases key KPIs like Total job count, median salaries, andtop job titles to give you a quick understanding of what's happening in the job market at a glance.
 
