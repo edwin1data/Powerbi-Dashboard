@@ -17,34 +17,25 @@ Each project focuses on solving real-world business problems using **Power BI**,
 - Data storytelling for analytics career trends  
 
 **Tools Used:** Power BI | Excel  
+
 **Preview:**  
 <img width="1286" height="718" alt="image" src="https://github.com/user-attachments/assets/7bcfdb38-bf73-4a72-9903-a9fd0ee775e5" />
 ---
 
-### 2️⃣ [🏠 Real Estate Price Analytics Dashboard (India)](./Real-Estate_project)
-**Objective:** Visualize Indian real estate pricing trends and identify key insights for property buyers and investors.
+### 2️⃣ [🏠 Real Estate Market Performance Dashboard](./Real-Estate_project)
+
+**Objective:** Analyze real estate sales performance, property types, and ROI trends across towns and years.
 
 **Key Highlights:**
-- City-wise average property prices (₹ per sq. ft.)  
-- Return of Investemnt % 
-- Furnishing type vs average price  
-- Top 5 affordable and premium cities  
+- 96K total properties sold generating 445B in revenue  
+- Average sale price of 405K and median price of 141K  
+- ROI (%) trends by town and over the years  
+- Property distribution by type and location  
 
-**Tools Used:** Power BI | Excel   
+**Tools Used:** Power BI | Excel 
+
 **Preview:**  
 ![Real Estate Dashboard](./Real-Estate_project/Image%20Real-Estate.png)
-
-**Download Dashboard:**  
-[Download Real-Estate_Dashboard.pbix](./Real-Estate_project/Real-Estate_Dashboard.pbix)
-
----
-
-## ⚙️ Tools & Skills
-
-- **Power BI** – Data modeling and visualization  
-- **Excel** – Data cleaning and preprocessing  
-- **GitHub** – Version control and portfolio hosting  
-- **Data Storytelling** – Turning insights into business value  
 
 ---
 
