@@ -53,7 +53,7 @@ The goal of this project is to support real-estate professionals, investors, ana
 
 ## 📸 Dashboard Preview
 
- ![alt text](image.png)
+ <img width="1306" height="734" alt="image" src="https://github.com/user-attachments/assets/8b787c9c-95f1-4f60-9375-9a4c13384f84" />
 
 ---
 
@@ -76,6 +76,7 @@ This dashboard provides a powerful lens into the real-estate market landscape, h
 With dynamic visuals, filtering options, and accurate metrics, this BI solution supports data-driven decisions for real-estate teams, investors, and analysts — enabling them to explore opportunities, evaluate performance, and plan confidently for the future.  
 
 ---
+
 
 
 
