@@ -19,6 +19,7 @@ Each project focuses on solving real-world business problems using **Power BI**,
 **Tools Used:** Power BI | Excel  
 
 **Preview:**  
+
 <img width="1286" height="718" alt="image" src="https://github.com/user-attachments/assets/7bcfdb38-bf73-4a72-9903-a9fd0ee775e5" />
 ---
 
@@ -35,6 +36,7 @@ Each project focuses on solving real-world business problems using **Power BI**,
 **Tools Used:** Power BI | Excel 
 
 **Preview:**  
+
 ![Real Estate Dashboard](./Real-Estate_project/Image%20Real-Estate.png)
 
 ---
