@@ -18,8 +18,7 @@ Each project focuses on solving real-world business problems using **Power BI**,
 
 **Tools Used:** Power BI | Excel | DAX  
 **Preview:**  
-![Data Jobs Dashboard](./Datajobs_project/Dashboard%20Page1.png)
-
+<img width="1286" height="718" alt="image" src="https://github.com/user-attachments/assets/7bcfdb38-bf73-4a72-9903-a9fd0ee775e5" />
 ---
 
 ### 2️⃣ [🏠 Real Estate Price Analytics Dashboard (India)](./Real-Estate_project)
