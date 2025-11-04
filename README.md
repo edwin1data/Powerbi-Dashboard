@@ -16,7 +16,7 @@ Each project focuses on solving real-world business problems using **Power BI**,
 - Interactive filters by job title  
 - Data storytelling for analytics career trends  
 
-**Tools Used:** Power BI | Excel | DAX  
+**Tools Used:** Power BI | Excel  
 **Preview:**  
 <img width="1286" height="718" alt="image" src="https://github.com/user-attachments/assets/7bcfdb38-bf73-4a72-9903-a9fd0ee775e5" />
 ---
@@ -26,7 +26,7 @@ Each project focuses on solving real-world business problems using **Power BI**,
 
 **Key Highlights:**
 - City-wise average property prices (₹ per sq. ft.)  
-- BHK count vs price correlation  
+- Return of Investemnt % 
 - Furnishing type vs average price  
 - Top 5 affordable and premium cities  
 
